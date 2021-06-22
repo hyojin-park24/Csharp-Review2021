@@ -15,7 +15,7 @@ using System;
 
 namespace Test2021
 {
-    class Program
+    class A003_Console
     {
         static void Main(string[] args)
         {
