@@ -27,7 +27,7 @@ namespace Test2021
                     Console.WriteLine("{0,10} : {1:C}", Size.Tall, price[i]);
                 else if (i == (int)Size.Grand)
                     Console.WriteLine("{0,10} : {1:C}", Size.Grand, price[i]);
-                else if (i === (int)Size.Venti)
+                else if (i == (int)Size.Venti)
                     Console.WriteLine("{0,10} : {1:C}", Size.Venti, price[i]);
             }
 
