@@ -1,5 +1,5 @@
 ﻿/*2021년 9월 8일 (1sd - 1일차)
- * 
+ * github연결
  * C# 기초 - 기본 자료형*/
 using System;
 using System.Collections.Generic;
