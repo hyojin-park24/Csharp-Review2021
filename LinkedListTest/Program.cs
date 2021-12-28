@@ -15,13 +15,18 @@ namespace LinkedListTest
 
         static void Start()
         {
-            
-            LinkedList<SD>
-            MyLinkedList<string> list = new MyLinkedList<string>();
+            MyLinkedList<int> list = new MyLinkedList<int>();
+            list.InsertNodeAtLast(3);
+            list.PrintNodes();
+            Console.WriteLine(list.Length);
+            return;
+            list.InsertNodeAtFirst(2);
+            list.InsertNodeAtFirst(1);
 
             list.PrintNodes();
-            return;
-            
+
+            list.InsertNodeAtLast(4);
+            list.PrintNodes();
         }
     }
 }
