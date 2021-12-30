@@ -74,6 +74,10 @@ namespace LinkedListTest
 
             return lastNode;
         }
+
+        /*Remove*/
+
+        /*Cycle*/
     }
 
     class Node
