@@ -41,6 +41,11 @@ namespace LinkedListTest
             head = firstNode;
         }
 
+        public void Remove()
+        {
+
+        }
+
         public void PrintNodes()
         {
             Node firstNode = head;
